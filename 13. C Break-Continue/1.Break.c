@@ -15,7 +15,7 @@ int main(){
         if (i == 4) {
             break;
         }
-        printf("%d\n", i);
+        printf("%d\n", i); // 0 1 2 3
     }
 
     return 0;
