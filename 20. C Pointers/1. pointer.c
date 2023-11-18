@@ -7,8 +7,8 @@
 int main(){
     int myAge = 47;
 
-    printf("%d", myAge);
-    printf("%p", myAge);  // Outputs the memory address of myAge (470000002F)
+    printf("%d\n", myAge);
+    printf("%p\n", myAge);  // Outputs the memory address of myAge (470000002F)
 }
 
 
